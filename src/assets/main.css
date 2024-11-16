@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Nabla&display=swap");
+body {
+  background: rgb(33, 0, 78);
+  background: linear-gradient(
+    23deg,
+    rgba(33, 0, 78, 1) 33%,
+    rgba(109, 20, 171, 1) 100%
+  );
+  min-height: 100vh;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  font-family: "Nabla", cursive;
+  text-align: center;
+  margin-top: 100px;
+  font-size: 75px;
+}
+
+.result-text{
+  font-family: 'Nabla', cursive;
+  font-size: 2em;
+}
